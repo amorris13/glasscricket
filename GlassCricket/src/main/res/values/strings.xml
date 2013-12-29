@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GlassCricket</string>
+    <string name="glass_voice_trigger">show me cricket scores</string>
+</resources>
